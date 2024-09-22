@@ -1,0 +1,6 @@
+{
+    "python.pythonPath": "/opt/ros/humble/lib/python3.8/site-packages",
+    "python.analysis.extraPaths": [
+        "/opt/ros/humble/lib/python3.8/site-packages"
+    ]
+}
